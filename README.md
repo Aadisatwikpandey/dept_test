@@ -98,4 +98,13 @@ This will help you understand how to properly submit your code and track your co
 14. **HCJ014**: Build a theme switcher with multiple color options
 15. **HCJ015**: Design a content loading skeleton for dynamic content
 
+## Contact Information
+
+If you have any questions or need further clarification about any task, please feel free to reach out:
+
+- Email: aadisatwikpandey<a href="mailto:aadisatwikpandey.amcec@gmail.com?subject=Web Development Task Question">aadisatwikpandey.amcec@gmail.com</a>
+- Phone: <a href="tel:+919305573788">9305573788</a>
+
+Please include the task code (e.g., HC001) in the subject line of your email for faster assistance.
+
 Happy coding!

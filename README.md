@@ -18,7 +18,7 @@ This repository contains a collection of small, modular web development componen
 ## GitHub Dashboard Tutorial
 
 If you're new to GitHub or need a refresher on how to use the GitHub dashboard, commit changes, and track your work, watch this tutorial:
-[GitHub Dashboard Tutorial for Beginners](https://www.youtube.com/watch?v=tRZGeaHPoaw)
+[GitHub Dashboard Tutorial for Beginners](https://youtu.be/Oaj3RBIoGFc?si=NlDTqJcgX1B2y4vF&t=653)
 
 This will help you understand how to properly submit your code and track your contributions to the project.
 

@@ -102,7 +102,7 @@ This will help you understand how to properly submit your code and track your co
 
 If you have any questions or need further clarification about any task, please feel free to reach out:
 
-- Email: aadisatwikpandey<a href="mailto:aadisatwikpandey.amcec@gmail.com?subject=Web Development Task Question">aadisatwikpandey.amcec@gmail.com</a>
+- Email:<a href="mailto:aadisatwikpandey.amcec@gmail.com?subject=Web Development Task Question">aadisatwikpandey.amcec@gmail.com</a>
 - Phone: <a href="tel:+919305573788">9305573788</a>
 
 Please include the task code (e.g., HC001) in the subject line of your email for faster assistance.
